@@ -10,3 +10,4 @@ print(f"Min: {min_num}")
 print(f"Max: {max_num}")
 print(f"Mean: {mean_num}")
 print(f"Standard Deviation of temp is {dev_num}")
+
